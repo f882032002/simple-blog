@@ -59,7 +59,7 @@ const adminUsers = [
   },
   {
     id: 2,
-    username: '吴彦祖',
+    username: 'hunt',
     password: '123456',
     permissions: userPermission.DEVELOPER,
     avatar: randomAvatar(),

@@ -237,7 +237,6 @@ export function queryLayout(layouts, pathname) {
       break
     }
   }
-
   return result
 }
 

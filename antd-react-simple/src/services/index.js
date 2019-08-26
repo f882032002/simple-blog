@@ -24,9 +24,9 @@ const gen = params => {
 
 const APIFunction = {}
 for (const key in api) {
+  console.log(key)
   APIFunction[key] = gen(api[key])
 }
-
 APIFunction.queryWeather = params => {
   params.key = 'i7sau1babuzwhycn'
   return request({

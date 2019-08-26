@@ -33,7 +33,8 @@ class Login extends PureComponent {
       {
         key: 'github',
         title: <Icon type="github" />,
-        href: 'https://github.com/zuiidea/antd-admin',
+        href:
+          'https://github.com/f882032002/simple-blog/tree/master/antd-react-simple',
         blankTarget: true,
       },
     ]

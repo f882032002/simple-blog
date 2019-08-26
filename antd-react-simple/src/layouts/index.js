@@ -49,7 +49,7 @@ class Layout extends Component {
       /* webpackMode: "lazy", webpackChunkName: "i18n-[index]" */
       `@lingui/loader!../locales/${language}/messages.json`
     )
-
+    console.log(language)
     this.setState(state => ({
       catalogs: {
         ...state.catalogs,

@@ -76,7 +76,7 @@ You can do some custom configuration in `/src/utils/config.js`:
         {
             key: 'zh',
             title: '中文',
-            flag: '/china.svg',
+            flag: '/taiwan.svg',
         },
       ],
       defaultLanguage: 'en',

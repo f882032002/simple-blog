@@ -7,7 +7,7 @@ const database = [
     icon: 'dashboard',
     name: 'Dashboard',
     zh: {
-      name: '仪表盘'
+      name: '首頁'
     },
     'pt-br': {
       name: 'Dashboard'

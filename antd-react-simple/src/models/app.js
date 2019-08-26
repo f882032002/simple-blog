@@ -19,7 +19,7 @@ export default {
         id: '1',
         icon: 'laptop',
         name: 'Dashboard',
-        zhName: '仪表盘',
+        zhName: '首頁',
         router: '/dashboard',
       },
     ],
